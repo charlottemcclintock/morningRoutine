@@ -6,6 +6,8 @@ I want an app that does the following: when I first open my computer in the morn
 
 side benefit: an excuse to learn fundamentals of app development.
 
+![app.png](app.png)
+
 ### other inspiration
 
 - [automating your digital morning with python](https://www.youtube.com/watch?v=jIf-hTf1Yf8)
